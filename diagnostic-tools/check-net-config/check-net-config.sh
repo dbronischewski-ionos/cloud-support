@@ -15,7 +15,7 @@ function ShowHelp {
         echo "Anwendung:"
         echo
         echo "$0 [-p|--pause [Anhalten zwischen den einzelnen Kommandos]] [-t|--targethost Zieladresse]"
-        echo "[-4|--IPv4 [IPv6-Verbindung prüfen]]"
+        echo "[-4|--IPv4 [IPv4-Verbindung prüfen]]"
         echo "[-6|--IPv6 [IPv6-Verbindung prüfen]]"
         echo "[-h|--help [Anzeigen dieser Hilfe]]"
         echo
